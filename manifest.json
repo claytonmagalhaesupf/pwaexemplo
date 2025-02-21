@@ -5,8 +5,8 @@
   "background_color": "#e0e6eb",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "https://claytonmagalhaesupf.github.io/pwaexemplo/index.html",
+  "scope": "/pwaexemplo/",
+  "start_url": "/pwaexemplo/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
